@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/test2.dir/algorithm/quicksort.c.o  -o test2 

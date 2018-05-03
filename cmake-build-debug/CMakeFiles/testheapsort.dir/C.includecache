@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/cppworkspace/ClionProjects/test2/16/cli.c
+sysutil.h
+/root/cppworkspace/ClionProjects/test2/16/sysutil.h
+
+/root/cppworkspace/ClionProjects/test2/16/sysutil.c
+sysutil.h
+/root/cppworkspace/ClionProjects/test2/16/sysutil.h
+
+/root/cppworkspace/ClionProjects/test2/16/sysutil.h
+unistd.h
+-
+sys/types.h
+-
+fcntl.h
+-
+sys/select.h
+-
+sys/time.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+netdb.h
+-
+stdio.h
+-
+errno.h
+-
+string.h
+-
+stdlib.h
+-
+

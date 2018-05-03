@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/testheapsort.dir/16/cli.c.o CMakeFiles/testheapsort.dir/16/sysutil.c.o  -o testheapsort 
